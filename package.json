@@ -36,6 +36,8 @@
   },
   "homepage": "https://github.com/benjycui/omit.js#readme",
   "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.2",
     "@umijs/fabric": "^2.2.2",
     "assert": "^1.4.1",
     "eslint": "^7.4.0",
